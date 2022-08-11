@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>PyothonPts</h1>
+<h1>PythonPts</h1>
 
 [![Pytest](https://github.com/a5chin/python-pts/actions/workflows/pytest.yml/badge.svg)](https://github.com/a5chin/python-pts/actions/workflows/pytest.yml)
 [![Linting](https://github.com/a5chin/python-pts/actions/workflows/linting.yml/badge.svg)](https://github.com/a5chin/python-pts/actions/workflows/linting.yml)
